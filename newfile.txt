@@ -1,0 +1,4 @@
+hi this is a new file created for the testing of git 
+and learning about git and version control 
+
+this is for the study of sony 
